@@ -1,0 +1,15 @@
+artifact_uri: file:///home/amadgakkhar/code/MLFlowExps/mlruns/0/80c4e4de3d394d0292fcb9aa61ba6065/artifacts
+end_time: 1709305447037
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80c4e4de3d394d0292fcb9aa61ba6065
+run_name: capricious-kite-420
+run_uuid: 80c4e4de3d394d0292fcb9aa61ba6065
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709305439678
+status: 3
+tags: []
+user_id: amadgakkhar

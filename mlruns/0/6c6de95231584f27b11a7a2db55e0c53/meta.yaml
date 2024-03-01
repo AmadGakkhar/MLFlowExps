@@ -1,0 +1,15 @@
+artifact_uri: file:///home/amadgakkhar/code/MLFlowExps/mlruns/0/6c6de95231584f27b11a7a2db55e0c53/artifacts
+end_time: 1709305526955
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c6de95231584f27b11a7a2db55e0c53
+run_name: learned-shoat-891
+run_uuid: 6c6de95231584f27b11a7a2db55e0c53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709305518942
+status: 3
+tags: []
+user_id: amadgakkhar

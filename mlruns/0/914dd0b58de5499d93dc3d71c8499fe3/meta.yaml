@@ -1,0 +1,15 @@
+artifact_uri: file:///home/amadgakkhar/code/MLFlowExps/mlruns/0/914dd0b58de5499d93dc3d71c8499fe3/artifacts
+end_time: 1709305500829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 914dd0b58de5499d93dc3d71c8499fe3
+run_name: useful-ox-122
+run_uuid: 914dd0b58de5499d93dc3d71c8499fe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709305492584
+status: 3
+tags: []
+user_id: amadgakkhar
